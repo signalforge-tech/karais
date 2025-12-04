@@ -1,4 +1,10 @@
 # KARAIS — Your Real-Time AI Assistant
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![License](https://img.shields.io/badge/license-private-lightgrey)
+![Platform](https://img.shields.io/badge/platform-Proxmox-blue)
+![AI Stack](https://img.shields.io/badge/AI-KARAIS-19C6FF)
+
+KARAIS is a fully local, GPU-accelerated AI assistant...
 
 KARAIS is a fully local, GPU-accelerated AI assistant designed for real-time interaction, custom training, long-term memory, and full data ownership.  
 This repository contains the documentation, architecture, training plans, and orchestration logic behind the system.
