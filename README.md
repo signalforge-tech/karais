@@ -35,6 +35,16 @@ Full topology:
 - **V3:** Multi-node cluster & dashboard  
 
 ## Folder Structure
+## 📚 Documentation
+Full documentation is available inside the `docs/` directory:
+
+- [Topology Overview](docs/KARAIS_Topology_V1.md)
+- [Architecture](docs/architecture/overview.md)
+- [Training](docs/training/sft_plan.md)
+- [Memory System](docs/memory/vector_db.md)
+- [Orchestration](docs/orchestration/scheduler_overview.md)
+- [Roadmap](docs/roadmap/V1.md)
+
 ```
 docs/
   architecture/
