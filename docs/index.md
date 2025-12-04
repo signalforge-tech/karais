@@ -195,3 +195,28 @@ KARAIS is a fully local AI assistant built on:
 This documentation outlines the architecture, memory system, training pipelines, and long-term engineering roadmap.
 
 </div>
+
+<!-- ============================ -->
+<!-- Footer -->
+<!-- ============================ -->
+
+<footer style="
+    width: 100%;
+    padding: 40px 20px;
+    margin-top: 80px;
+    border-top: 1px solid #222831;
+    text-align: center;
+    color: #b5b5b5;
+    font-size: 0.9rem;
+    letter-spacing: 0.3px;
+">
+
+    <div style="margin-bottom: 6px;">
+        © 2025 <span style="color:#19C6FF; font-weight:600;">Signal//Forge</span>
+    </div>
+
+    <div style="opacity: 0.7; font-size: 0.8rem;">
+        Built with love, GPUs, and too many late nights.
+    </div>
+
+</footer>
