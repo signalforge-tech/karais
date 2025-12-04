@@ -196,27 +196,33 @@ This documentation outlines the architecture, memory system, training pipelines,
 
 </div>
 
-<!-- ============================ -->
-<!-- Footer -->
-<!-- ============================ -->
+<!-- ----------------------------- -->
+<!-- Footer                        -->
+<!-- ----------------------------- -->
 
-<footer style="
-    width: 100%;
-    padding: 40px 20px;
-    margin-top: 80px;
-    border-top: 1px solid #222831;
+<div style="
     text-align: center;
+    padding: 40px 20px 60px 20px;
     color: #b5b5b5;
-    font-size: 0.9rem;
-    letter-spacing: 0.3px;
+    margin-top: 60px;
+    border-top: 1px solid #222831;
 ">
 
-    <div style="margin-bottom: 6px;">
-        © 2025 <span style="color:#19C6FF; font-weight:600;">Signal//Forge</span>
+    <div style="font-size: 1rem; margin-bottom: 6px; font-weight: 600;">
+
+        <!-- Signal//Forge Wordmark (Footer Version) -->
+        <span style="color: #ffffff;">SIGNAL</span>
+        <span style="color:#19C6FF;">//</span>
+        <span style="color: #ffffff;">FORGE</span>
     </div>
 
-    <div style="opacity: 0.7; font-size: 0.8rem;">
+    <div style="font-size: 0.9rem; color: #777777; margin-top: 4px;">
+        © 2025 Signal//Forge  
+    </div>
+
+    <div style="font-size: 0.85rem; color: #555555; margin-top: 6px;">
         Built with love, GPUs, and too many late nights.
     </div>
 
-</footer>
+</div>
+
