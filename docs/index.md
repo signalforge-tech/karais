@@ -104,7 +104,10 @@ h1, h2, h3 {
     </div>
 
     <div class="nav-grid">
-        <a class="nav-btn" href="KARAIS_Topology_V1.md">Topology Overview</a>
-        <a class="nav-btn" href="architecture/overview.md">Architecture</a>
-        <a class="nav-btn" href="training/sft_plan.md">Training</a>
-        <a class=
+    <a class="nav-btn" href="KARAIS_Topology_V1.md">Topology Overview</a>
+    <a class="nav-btn" href="architecture/overview.md">Architecture</a>
+    <a class="nav-btn" href="training/sft_plan.md">Training</a>
+    <a class="nav-btn" href="memory/vector_db.md">Memory System</a>
+    <a class="nav-btn" href="orchestration/scheduler_overview.md">Orchestration</a>
+    <a class="nav-btn" href="roadmap/V1.md">Roadmap</a>
+</div>
