@@ -96,6 +96,42 @@ h1, h2, h3 {
 <!-- ----------------------------- -->
 <!-- Hero Section -->
 <!-- ----------------------------- -->
+<!-- ============================ -->
+<!-- Signal//Forge Branding Header -->
+<!-- ============================ -->
+
+<div style="
+    width: 100%;
+    padding: 40px 20px 10px 20px;
+    text-align: left;
+    border-bottom: 1px solid #222831;
+    max-width: 1200px;
+    margin: 0 auto;
+">
+
+    <!-- Brand Row -->
+    <div style="display: flex; align-items: center; gap: 14px;">
+
+        <!-- Signal//Forge Wordmark -->
+        <div style="font-size: 1.8rem; font-weight: 700; color: #ffffff; letter-spacing: 0.5px; font-family: inherit;">
+            SIGNAL<span style="color:#19C6FF;">//</span>FORGE
+        </div>
+
+        <!-- Cyan I/O Signature -->
+        <div style="
+            font-size: 1.4rem;
+            font-weight: 600;
+            color: #ffffff;
+            margin-left: 4px;
+            letter-spacing: 0px;
+            opacity: 0.8;
+        ">
+            <span style="color: #ffffff;">I</span><span style="color:#19C6FF;">/</span><span style="color: #ffffff;">O</span>
+        </div>
+
+    </div>
+
+</div>
 
 <div class="hero">
     <div class="hero-title">KARAIS — Your Real-Time AI Assistant</div>
