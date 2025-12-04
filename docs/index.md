@@ -117,20 +117,11 @@ h1, h2, h3 {
             SIGNAL<span style="color:#19C6FF;">//</span>FORGE
         </div>
 
-        <!-- Cyan I/O Signature -->
-        <div style="
-            font-size: 1.4rem;
-            font-weight: 600;
-            color: #ffffff;
-            margin-left: 4px;
-            letter-spacing: 0px;
-            opacity: 0.8;
-        ">
-            <span style="color: #ffffff;">I</span><span style="color:#19C6FF;">/</span><span style="color: #ffffff;">O</span>
-        </div>
-
-    </div>
-
+<!-- Animated I/O signature -->
+<div style="font-size: 1.4rem; font-weight: 600; display: flex; gap: 4px;">
+    <span style="color: #ffffff;">I</span>
+    <span class="io-slash">/</span>
+    <span style="color: #ffffff;">O</span>
 </div>
 
 <div class="hero">
